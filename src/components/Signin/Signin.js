@@ -9,5 +9,4 @@ return(
  )
     
 };
-
-export default SignInPage;
+ export default SignIn;

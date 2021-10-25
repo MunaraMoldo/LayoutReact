@@ -2,7 +2,14 @@ import React from 'react';
 import {
     Container,
     FormWrap,
-    Form
+    Form,
+    FormLabel,
+    FormInput,
+    FormButton,
+    Text,
+    Icon,
+    FormContent,
+    FormH1
 
 } from "./SigninElements";
 
